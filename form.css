@@ -1,0 +1,75 @@
+.xyz{
+    padding-left: 500px;
+}
+
+form{
+    background-color: rgb(182, 229, 229);
+    width: 470px;
+    height: auto + 10px;
+    padding: 10px 10px 10px 10px;
+    margin-right: 60px;
+    padding-right: 40px;
+    border-left: 3px solid rgb(43, 92, 250);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: rgb(83, 81, 81);
+}
+
+.details input {
+    width: 470px;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+}
+
+.details label{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.but{
+padding: 50px;
+border: 1px dashed grey;
+text-align: center;
+}
+
+.but button{
+    cursor: pointer
+}
+
+.upload{
+    border-radius: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: white;
+    color:#1a73e8;
+    border: 1px solid #1a73e8;
+}
+
+input{
+    padding: 5px 5px 5px 5px;
+}
+
+.save{
+    text-align: center;
+}
+
+.submit{
+padding-right: 20px;
+margin-right: 10px;
+border-radius: 20px;
+padding-left: 20px;
+background-color:#1a73e8;
+color: white;
+}
+
+.reset{
+    border-radius: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #1a73e8;
+    color: white;
+}
